@@ -163,8 +163,6 @@ radiatorviewplugin:1.29
 rebuild:1.29
 resource-disposer:0.12
 ruby-runtime:0.12
-slack:2.3
-sonar:2.8.1
 ssh-agent:1.17
 ssh-slaves:1.29.4
 summary_report:1.15
